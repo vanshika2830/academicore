@@ -1,12 +1,12 @@
-# **Campus Course & Records Manager (CCRM)**
+# **Academicore (Campus Course & Records Manager)**
 
 ### **A Java-Powered Console Application for Academic Administration**
 
-CCRM is an enterprise-grade, command-line interface (CLI) application designed for the comprehensive management of an academic institution's core data. Built with Java SE and utilizing an Oracle database backend, this system provides administrators with a powerful and efficient tool for handling student records, course catalogs, and enrollment data through a streamlined, text-based interface.
+Academicore is an enterprise-grade, command-line interface (CLI) application designed for the comprehensive management of an academic institution's core data. Built with Java SE and utilizing an Oracle database backend, this system provides administrators with a powerful and efficient tool for handling student records, course catalogs, and enrollment data through a streamlined, text-based interface.
 
 ## **System Capabilities**
 
-CCRM is organized around several key administrative functions, providing a full suite of tools for managing the academic environment.
+Academicore is organized around several key administrative functions, providing a full suite of tools for managing the academic environment.
 
 #### **Academic & Student Affairs**
 
